@@ -1,0 +1,5 @@
+{
+    "explorer.autoReveal": false,
+    "explorer.experimental.fileNesting.enabled": true,
+    "debug.confirmOnExit": "always"
+}
